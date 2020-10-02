@@ -1,4 +1,4 @@
-package com.example.connect_social_network.ui.login;
+package com.app.connect.ui.login;
 
 import androidx.annotation.Nullable;
 

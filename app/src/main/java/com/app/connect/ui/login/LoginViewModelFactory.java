@@ -1,11 +1,11 @@
-package com.example.connect_social_network.ui.login;
+package com.app.connect.ui.login;
 
 import androidx.lifecycle.ViewModel;
 import androidx.lifecycle.ViewModelProvider;
 import androidx.annotation.NonNull;
 
-import com.example.connect_social_network.data.LoginDataSource;
-import com.example.connect_social_network.data.LoginRepository;
+import com.app.connect.data.LoginDataSource;
+import com.app.connect.data.LoginRepository;
 
 /**
  * ViewModel provider factory to instantiate LoginViewModel.

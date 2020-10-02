@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/connect-Social-Network.iml" filepath="$PROJECT_DIR$/.idea/modules/connect-Social-Network.iml" group="connect-Social-Network" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Connect.iml" filepath="$PROJECT_DIR$/.idea/modules/Connect.iml" group="Connect" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Connect/app" />
     </modules>
   </component>
 </project>

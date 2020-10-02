@@ -1,14 +1,15 @@
-package com.example.connect_social_network.ui.login;
+package com.app.connect.ui.login;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
+
 import android.util.Patterns;
 
-import com.example.connect_social_network.data.LoginRepository;
-import com.example.connect_social_network.data.Result;
-import com.example.connect_social_network.data.model.LoggedInUser;
-import com.example.connect_social_network.R;
+import com.app.connect.data.LoginRepository;
+import com.app.connect.data.Result;
+import com.app.connect.data.model.LoggedInUser;
+import com.app.connect.R;
 
 public class LoginViewModel extends ViewModel {
 

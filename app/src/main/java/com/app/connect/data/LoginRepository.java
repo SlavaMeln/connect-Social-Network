@@ -1,6 +1,6 @@
-package com.example.connect_social_network.data;
+package com.app.connect.data;
 
-import com.example.connect_social_network.data.model.LoggedInUser;
+import com.app.connect.data.model.LoggedInUser;
 
 /**
  * Class that requests authentication and user information from the remote data source and
@@ -22,7 +22,7 @@ public class LoginRepository {
     }
 
     public static LoginRepository getInstance(LoginDataSource dataSource) {
-        if(instance == null){
+        if (instance == null) {
             instance = new LoginRepository(dataSource);
         }
         return instance;
